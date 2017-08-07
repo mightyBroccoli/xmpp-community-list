@@ -5,7 +5,7 @@
         <AnonymousRegistration>1</AnonymousRegistration>
         <HashedPassword>1</HashedPassword>
         <EnforcedEncryption>1</EnforcedEncryption>
-        <HiddenService>1</HiddenService>
+        <HiddenService>0</HiddenService>
         <SOCKS5ByteStream>1</SOCKS5ByteStream>
         <PushNotifications>1</PushNotifications>
         <XMPPOverTLS>1</XMPPOverTLS>
