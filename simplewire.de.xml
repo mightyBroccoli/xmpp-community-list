@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<server>
+        <Name>simplewire.de</Name>
+        <NoIpLogging>1</NoIpLogging>
+        <AnonymousRegistration>1</AnonymousRegistration>
+        <HashedPassword>1</HashedPassword>
+        <EnforcedEncryption>1</EnforcedEncryption>
+        <HiddenService>0</HiddenService>
+        <SOCKS5ByteStream>1</SOCKS5ByteStream>
+        <PushNotifications>1</PushNotifications>
+        <XMPPOverTLS>1</XMPPOverTLS>
+        <BOSHProxy>1</BOSHProxy>
+        <Websocket>0</Websocket>
+        <HTTPUploadLimits>15 MB / 14 Tage</HTTPUploadLimits>
+        <MUC>1</MUC>
+        <OMEMO>1</OMEMO>
+        <ServerSoftware>Prosody 0.9.12 stable</ServerSoftware>
+        <ContactName>Michael Dietrich</ContactName>
+        <ContactPage>https://simplewire.de/impressum.html</ContactPage>
+        <URL>https://simplewire.de</URL>
+</server>
