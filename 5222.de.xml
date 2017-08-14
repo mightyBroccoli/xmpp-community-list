@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <server>
-        <Name>wiuwiu.de</Name>
+        <Name>5222.de</Name>
         <NoIpLogging>1</NoIpLogging>
         <AnonymousRegistration>1</AnonymousRegistration>
         <HashedPassword>1</HashedPassword>
@@ -10,13 +10,12 @@
         <PushNotifications>1</PushNotifications>
         <XMPPOverTLS>1</XMPPOverTLS>
         <BOSHProxy>1</BOSHProxy>
-        <Websocket>0</Websocket>
-        <HTTPUploadLimits>10 MB / 30 Tage</HTTPUploadLimits>
+        <Websocket>1</Websocket>
+        <HTTPUploadLimits>50 MB / 30 Tage</HTTPUploadLimits>
         <MUC>1</MUC>
         <OMEMO>1</OMEMO>
-        <DNSSEC>1</DNSSEC>
-        <ServerSoftware>Prosody 0.9.12 stable</ServerSoftware>
-        <ContactName>Sebastian Sterk</ContactName>
-        <ContactPage>https://wiuwiu.de/Impressum</ContactPage>
-        <URL>https://wiuwiu.de</URL>
+        <ServerSoftware>Prosody 0.10 nightly</ServerSoftware>
+        <ContactName>Sebastian Hübner</ContactName>
+        <ContactPage>https://blog.kokolor.es/kontakt-impressum-gnupg/</ContactPage>
+        <URL>https://5222.de</URL>
 </server>
