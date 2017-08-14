@@ -14,6 +14,7 @@
         <HTTPUploadLimits>10 MB / 31 Tage</HTTPUploadLimits>
         <MUC>1</MUC>
         <OMEMO>1</OMEMO>
+        <DNSSEC>1</DNSSEC>
         <ServerSoftware>Prosody 0.10 future-stable build 407 (2017-07-20, 49a682d6b427)</ServerSoftware>
         <ContactName>nico wellpott</ContactName>
         <ContactPage>https://magicbroccoli.de/impressum/</ContactPage>
