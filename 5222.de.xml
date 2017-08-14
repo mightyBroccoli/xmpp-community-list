@@ -14,6 +14,7 @@
         <HTTPUploadLimits>50 MB / 30 Tage</HTTPUploadLimits>
         <MUC>1</MUC>
         <OMEMO>1</OMEMO>
+        <DNSSEC>1</DNSSEC>
         <ServerSoftware>Prosody 0.10 nightly</ServerSoftware>
         <ContactName>Sebastian Hübner</ContactName>
         <ContactPage>https://blog.kokolor.es/kontakt-impressum-gnupg/</ContactPage>
