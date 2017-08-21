@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<server>
+        <Name>jabber.hot-chilli.net</Name>
+        <NoIpLogging>1</NoIpLogging>
+        <AnonymousRegistration>1</AnonymousRegistration>
+        <HashedPassword>1</HashedPassword>
+        <EnforcedEncryption>1</EnforcedEncryption>
+        <HiddenService>1</HiddenService>
+        <SOCKS5ByteStream>1</SOCKS5ByteStream>
+        <PushNotifications>1</PushNotifications>
+        <XMPPOverTLS>1</XMPPOverTLS>
+        <BOSHProxy>1</BOSHProxy>
+        <Websocket>0</Websocket>
+        <HTTPUploadLimits>10 MB / 31 Tage</HTTPUploadLimits>
+        <MUC>1</MUC>
+        <OMEMO>1</OMEMO>
+        <DNSSEC>1</DNSSEC>
+        <ServerSoftware>Prosody 0.9 nightly</ServerSoftware>
+        <ContactName>Martin Sebald</ContactName>
+        <ContactPage>https://jabber.hot-chilli.net/de/impressum/</ContactPage>
+        <URL>https://jabber.hot-chilli.net</URL>
+</server>
