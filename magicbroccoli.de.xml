@@ -15,8 +15,8 @@
         <MUC>1</MUC>
         <OMEMO>1</OMEMO>
         <DNSSEC>1</DNSSEC>
-        <ServerSoftware>Prosody 0.10 future-stable build 407 (2017-07-20, 49a682d6b427)</ServerSoftware>
+        <ServerSoftware>Prosody 0.10 future-stable build 411 (2017-08-28, e92585ab4998)</ServerSoftware>
         <ContactName>nico wellpott</ContactName>
-        <ContactPage>https://magicbroccoli.de/impressum/</ContactPage>
+        <ContactPage>https://magicbroccoli.de/impressum</ContactPage>
         <URL>https://magicbroccoli.de</URL>
 </server>
