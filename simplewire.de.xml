@@ -14,6 +14,7 @@
         <HTTPUploadLimits>15 MB / 14 Tage</HTTPUploadLimits>
         <MUC>1</MUC>
         <OMEMO>1</OMEMO>
+        <DNSSEC>1</DNSSEC>
         <ServerSoftware>Prosody 0.9.12 stable</ServerSoftware>
         <ContactName>Michael Dietrich</ContactName>
         <ContactPage>https://simplewire.de/impressum.html</ContactPage>
