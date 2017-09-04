@@ -11,12 +11,12 @@
         <XMPPOverTLS>1</XMPPOverTLS>
         <BOSHProxy>1</BOSHProxy>
         <Websocket>1</Websocket>
-        <HTTPUploadLimits>10 MB / 31 Tage</HTTPUploadLimits>
+        <HTTPUploadLimits>25 MB / 31 Tage</HTTPUploadLimits>
         <MUC>1</MUC>
         <OMEMO>1</OMEMO>
         <DNSSEC>1</DNSSEC>
-        <ServerSoftware>Prosody 0.10 future-stable build 411 (2017-08-28, e92585ab4998)</ServerSoftware>
+        <ServerSoftware>Prosody 0.10 future-stable build 413 (2017-09-03, 8ea0484871e8)</ServerSoftware>
         <ContactName>nico wellpott</ContactName>
         <ContactPage>https://magicbroccoli.de/impressum</ContactPage>
-        <URL>https://magicbroccoli.de</URL>
+        <URL>https://magicbroccoli.de/xmpp</URL>
 </server>
