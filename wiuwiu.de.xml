@@ -15,7 +15,7 @@
         <MUC>1</MUC>
         <OMEMO>1</OMEMO>
         <DNSSEC>1</DNSSEC>
-        <ServerSoftware>Prosody 0.9.12 stable</ServerSoftware>
+        <ServerSoftware>Prosody 0.10.0 stable</ServerSoftware>
         <ContactName>Sebastian Sterk</ContactName>
         <ContactPage>https://wiuwiu.de/Imprint</ContactPage>
         <URL>https://wiuwiu.de</URL>
