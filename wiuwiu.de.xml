@@ -10,13 +10,13 @@
         <PushNotifications>1</PushNotifications>
         <XMPPOverTLS>1</XMPPOverTLS>
         <BOSHProxy>1</BOSHProxy>
-        <Websocket>0</Websocket>
-        <HTTPUploadLimits>10 MB / 30 Tage</HTTPUploadLimits>
+        <Websocket>1</Websocket>
+        <HTTPUploadLimits>25 MB / 30 Tage</HTTPUploadLimits>
         <MUC>1</MUC>
         <OMEMO>1</OMEMO>
         <DNSSEC>1</DNSSEC>
         <ServerSoftware>Prosody 0.9.12 stable</ServerSoftware>
         <ContactName>Sebastian Sterk</ContactName>
-        <ContactPage>https://wiuwiu.de/Impressum</ContactPage>
+        <ContactPage>https://wiuwiu.de/Imprint</ContactPage>
         <URL>https://wiuwiu.de</URL>
 </server>
