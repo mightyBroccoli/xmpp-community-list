@@ -11,11 +11,11 @@
         <XMPPOverTLS>1</XMPPOverTLS>
         <BOSHProxy>1</BOSHProxy>
         <Websocket>1</Websocket>
-        <HTTPUploadLimits>25 MB / 31 Tage</HTTPUploadLimits>
-        <MUC>1</MUC>
-        <OMEMO>1</OMEMO>
-        <DNSSEC>1</DNSSEC>
-        <ServerSoftware>0.10 nightly build 470 (2018-03-29, 1d66f66a13c9)</ServerSoftware>
+        <HTTPUploadLimits>30 MB / 31 Tage</HTTPUploadLimits> 
+        <MUC>1</MUC> 
+        <OMEMO>1</OMEMO> 
+        <DNSSEC>1</DNSSEC> 
+        <ServerSoftware>ejabberd 18.01</ServerSoftware> 
         <ContactName>nico wellpott</ContactName>
         <ContactPage>https://magicbroccoli.de/contact</ContactPage>
         <URL>https://magicbroccoli.de/xmpp</URL>
