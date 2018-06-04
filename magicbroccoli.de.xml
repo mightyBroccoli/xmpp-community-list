@@ -15,7 +15,7 @@
         <MUC>1</MUC> 
         <OMEMO>1</OMEMO> 
         <DNSSEC>1</DNSSEC> 
-        <ServerSoftware>ejabberd 18.01</ServerSoftware> 
+        <ServerSoftware>ejabberd 18.04-2~bpo9+1</ServerSoftware> 
         <ContactName>nico wellpott</ContactName>
         <ContactPage>https://magicbroccoli.de/contact</ContactPage>
         <URL>https://magicbroccoli.de/xmpp</URL>
